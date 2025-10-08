@@ -2,27 +2,6 @@
 
 Este proyecto implementa el juego **FizzBuzz** usando distintos lenguajes y paradigmas: Python (hilos y asincronía), C y Java. Además incluye tests y un script para ejecutar todo automáticamente.
 
----
-
-## 📂 Estructura del proyecto
-
-prueba-tecnica/
-│
-├─ FizzBuzz.py # Implementación en Python usando hilos
-├─ FizzBuzz_Alternative.py # Implementación en Python usando asyncio
-├─ FizzBuzzGame.java # Implementación en Java usando threads
-├─ FizzBuzzGameTest.c # Test unitario en C
-├─ fizzbuzz_threads.c # Implementación de hilos en C
-├─ test_fizzbuzz_threads.py # Test de FizzBuzz con hilos en Python
-├─ test_fizzbuzz-async.py # Test de FizzBuzz asincrónico en Python
-├─ run_fizzbuzz_all.bat # Script para ejecutar todo en Windows
-└─ README.md # Documentación del proyecto
-
-yaml
-Copiar código
-
----
-
 ## 💻 Tecnologías usadas
 
 - **Python 3.12**: programación concurrente con `threading` y `asyncio`.  
